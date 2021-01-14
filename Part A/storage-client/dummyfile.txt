@@ -1,2 +1,0 @@
-Hello world
-this is the default file transferred, place any other file in the storage folder to transfer.
